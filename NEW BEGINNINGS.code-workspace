@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Flutter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NEW BEGINNINGS"
+	}
+}

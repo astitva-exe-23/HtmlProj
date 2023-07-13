@@ -1,0 +1,56 @@
+1.<h1> is a level 1 heading
+    <h1>Heading level 1</h1>
+    <h2>Heading level 2</h2>
+    <h3>Heading level 3</h3>
+    <h4>Heading level 4</h4>
+    <h5>Heading level 5</h5>
+    <h6>Heading level 6</h6>
+
+<!--THESE ARE LEVEL HEADING TAGS WITH SIZE DECREASING FROM 1 TO 7-->
+
+2.<br> is a self closing tag used to break the lines of code
+3.<hr @attribute> is a self closing tag for horizontal Rule(making lines and stuff) with attributes ranging
+4.</center> is for making the stuff centred 
+5.<p>-> is a paragraph division tag
+<p>
+  This is the first paragraph of text. This is the first paragraph of text. This
+  is the first paragraph of text. This is the first paragraph of text.
+</p>
+6.<em> </em> tag used to emphasis and italisise
+7.<strong>    </strong> used to bolden 
+8. LISTS
+    1. <ul> UNORDERED LISTS
+<li>   </li>
+    </ul>
+    2.<ol> ordered LISTS
+9.image element
+10.<img src(Sources)>
+11.Anchor tag <a>---------</a>
+example: <a href="https://example.com">Website</a>
+12.TABLE
+<table></table>
+EXAMPLE:
+<table>
+  <tr> -->TABLE ROW
+    <td>John</td>--->TABLE CELL OF DATA
+    <td>Doe</td>
+  </tr>
+  <tr>
+    <td>Jane</td>
+    <td>Doe</td>
+  </tr>
+</table>
+
+
+13.FORMS
+<form class="" action="reference file" methods="post">
+<label>      </label>
+<input type="" id="" name="" value="">
+INPUT(self closing) IS A TYPE OF FORM BUTTON/ATTRIBUTE TO CREATE AN 
+ELEMENT FOR THE FORM IN HTML
+
+DIFFERENT TYPES OF INPUT TYPES:
+1. BUTTON-SYNATAX: <input type="button"
+2.
+
+
